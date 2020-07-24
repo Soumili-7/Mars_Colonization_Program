@@ -9,12 +9,15 @@
 */
 a{
     text-align: center;
-    color:black;
-    
+    color:greenyellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;    
 }
 p{
     text-align: center;
-    color:black;
+    color:greenyellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px; 
 }
 .container{
     width: 600px;
@@ -27,7 +30,7 @@ p{
 #cvs{
     position: absolute;
     border: 1px solid #000;
-    background-color:lightblue;
+    background:url(https://www.economist.com/sites/default/files/images/2018/12/articles/main/20181222_stp503.jpg) ;
 }
 
 .options{
